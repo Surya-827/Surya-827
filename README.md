@@ -62,18 +62,17 @@
 
 <br/>
 <br/>-->
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/prem-raj-b948701ba"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/rajprem4214"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/p.r.6.m/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://www.linkedin.com/in/surya-kiran-v-8a4a831aa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Surya0827"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/surya1kiran/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rajprem4214">
+    <img src="https://komarev.com/ghpvc/?username=Surya-827">
 </a>
