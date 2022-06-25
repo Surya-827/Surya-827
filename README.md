@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 👨‍💻 All of my projects are available at **Project Sources**.
+- 👨‍💻 All of my projects are available at **Project Sources - Repository**.
 
 - 👨‍💻 Capable of implementing Python One Liner's.
  
