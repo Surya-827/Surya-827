@@ -44,7 +44,7 @@
 
 <p align="center">
     <a href="https://github.com/rajprem4214/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Surya's streak" src="https://user-images.githubusercontent.com/63420304/180279249-c6068448-b77a-4f16-8979-5e7cf0d3b038.png"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Surya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-827&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
