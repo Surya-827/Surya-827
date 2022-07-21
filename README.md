@@ -42,6 +42,8 @@
     <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"><img src="https://user-images.githubusercontent.com/63420304/180278460-8d2020e6-2e0d-49ab-81a9-94272e68efc4.png" alt="REST API" width="48" height="45"/></a>
 </p>
 
+<br/>
+
 <p align="center">
     <a href="https://github.com/rajprem4214/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Surya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-827&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
