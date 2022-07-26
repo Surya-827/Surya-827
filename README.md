@@ -39,7 +39,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"><img src="https://user-images.githubusercontent.com/63420304/180278460-8d2020e6-2e0d-49ab-81a9-94272e68efc4.png" alt="REST API" width="48" height="45"/></a>
+    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"><img src="https://user-images.githubusercontent.com/63420304/180278460-8d2020e6-2e0d-49ab-81a9-94272e68efc4.png" alt="REST API" width="48" height="45"/></a>
+    <a href="https://jmeter.apache.org/" target="_blank"><img src="https://user-images.githubusercontent.com/63420304/180949778-a1f6d65c-592b-4d4e-93ca-00b8d47c83a1.png" alt="JMeter" width="45" height="43"/></a>
+
 </p>
 
 <br/>
