@@ -27,6 +27,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -67,7 +68,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Surya-827/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Surya-827&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Surya-827/github-readme-activity-graph"><img alt="Surya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Surya-827&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
