@@ -95,3 +95,10 @@
     <img src="https://komarev.com/ghpvc/?username=Surya-827">
 </a>
 <!-- <img align="right" src="https://github.com/Surya-827/github-stats-transparent/blob/output/generated/overview.svg"  width="400"> -->
+<br></br>
+<br/>
+
+## 🎧 Now Playing 
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
