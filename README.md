@@ -66,13 +66,17 @@
 
 
 <br/>
-<br/>
 
-<a href="https://github.com/Surya-827/github-readme-activity-graph"><img alt="Surya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Surya-827&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-
+## 📈 Activity Graph 
+<p align="center">
+<a href="https://github.com/Surya-827/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-827&theme=react&area=true&hide_border=true&bg_color=0D1117#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Surya-827/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-827&theme=react&area=true&hide_border=true&bg_color=0D1117#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Connect with me:
@@ -90,3 +94,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Surya-827">
 </a>
+<!-- <img align="right" src="https://github.com/Surya-827/github-stats-transparent/blob/output/generated/overview.svg"  width="400"> -->
