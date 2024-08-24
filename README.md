@@ -44,6 +44,7 @@
     <a href="https://jmeter.apache.org/" target="_blank"><img src="https://user-images.githubusercontent.com/63420304/180949778-a1f6d65c-592b-4d4e-93ca-00b8d47c83a1.png" alt="JMeter" width="45" height="43"/></a>
     <a href="https://github.com/" target="_blank"><img src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" alt="Github" width="45" height="43"/></a>
 <a href="https://gitlab.com" target="_blank"><img src="https://github.com/Surya-827/Surya-827/assets/63420304/50482878-f63b-4a7f-be1b-84abb0b1b03c" alt="Gitlab" width="45" height="43"/></a>
+ <a href="https://pyspark.com" target="_blank"><img src="https://static.javatpoint.com/tutorial/pyspark/images/pyspark.png" alt="PySpark" width="45" height="43"/></a>
 </p>
 
 <br/>
