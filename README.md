@@ -13,7 +13,7 @@
 
 - 🔭 I've completed my graduation in Electronics & Communication Engineering from **Hindustan Institute of Technology & Science,Chennai**.
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently brushing up Data Structures and Algorithms.
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
