@@ -23,7 +23,7 @@
  
 - 📫 How to reach me 📧 _vsuryakiran827@gmail.com_ .
 
-- ⚡ Fun fact I do competitive coding and play Online PC Games and become acquianted with ML .
+- ⚡ Fun fact I do competitive coding and play Online PC Games and become acquianted with ML.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
