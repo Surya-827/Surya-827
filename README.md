@@ -3,10 +3,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Surya Kiran</h1>
-<h3 align="center">👨🏻‍💻 I'm a Senior Software Engineer from India .</h3>
-<!--
-<h3 align="center">👨🏻‍💻 I'm a Devop's Engineer from India.</h3>
--->
+<h3 align="center">👨🏻‍💻 I'm a Senior Software Engineer from India.</h3>
 
 ## 🙋‍♂️ About Me
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -61,11 +58,13 @@
 
 <!--/br>
 <a><h2>Trophies</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/Surya-827/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Surya-827&row=4&theme=onedark&no-frame=true"/>
     </a>    
     </a>
 <br/-->
+
+
 ## 📊 My Github Stats
 
   <br/>
