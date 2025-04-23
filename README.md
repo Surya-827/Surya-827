@@ -10,13 +10,13 @@
 
 - 🔭 I've completed my graduation in Electronics & Communication Engineering from **Hindustan Institute of Technology & Science,Chennai**.
 
-- 🌱 I’m currently brushing up Data Structures and Algorithms .
+- 🌱 I’m currently brushing up Data Structures and Algorithms.
 
-- 👯 I’m looking to collaborate on OpenSource Projects .
+- 👯 I’m looking to collaborate on OpenSource Projects.
 
 - 👨‍💻 All of my projects are available at **Project Sources - Repository**.
 
-- 👨‍💻 Capable of implementing Python One Liner's .
+- 👨‍💻 Capable of implementing Python One Liner's.
  
 - 📫 How to reach me 📧 _vsuryakiran827@gmail.com_.
 
