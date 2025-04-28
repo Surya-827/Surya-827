@@ -3,24 +3,24 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Surya Kiran.</h1>
-<h3 align="center">👨🏻‍💻 I'm a Senior Software Engineer from India .</h3>
+<h3 align="center">👨🏻‍💻 I'm a Senior Software Engineer from India.</h3>
 
 ## 🙋‍♂️ About Me
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I've completed my graduation in Electronics & Communication Engineering from **Hindustan Institute of Technology & Science,Chennai**.
 
-- 🌱 I’m currently brushing up Data Structures and Algorithms.
+- 🌱 I’m currently brushing up Data Structures and Algorithms .
 
-- 👯 I’m looking to collaborate on OpenSource Projects.
+- 👯 I’m looking to collaborate on OpenSource Projects .
 
 - 👨‍💻 All of my projects are available at **Project Sources - Repository**.
 
-- 👨‍💻 Capable of implementing Python One Liner's.
+- 👨‍💻 Capable of implementing Python One Liner's .
  
 - 📫 How to reach me 📧 _vsuryakiran827@gmail.com_.
 
-- ⚡ Fun fact I do competitive coding and play Online PC Games and become acquianted with ML.
+- ⚡ Fun fact I do competitive coding and play Online PC Games and become acquianted with ML .
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
