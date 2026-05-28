@@ -5,109 +5,31 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Surya Kiran.</h1>
 <h3 align="center">👨🏻‍💻 I'm a Senior Software Engineer from India .</h3>
 
-## 🙋‍♂️ About Me
----------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I've completed my graduation in Electronics & Communication Engineering from **Hindustan Institute of Technology & Science,Chennai**.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kFFwbhSmw) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SuryaKiran ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surya27kiran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-kiran-8a4a831aa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19599229) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/suryakiran827) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Surya0827) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@suryakiran2079) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SuryaKiran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsuryakiran827@gmail.com) 
 
-- 🌱 I’m currently brushing up Data Structures and Algorithms.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Surya-827&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Surya-827&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Surya-827&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on OpenSource Projects.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Surya-827&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👨‍💻 All of my projects are available at **Project Sources - Repository**.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👨‍💻 Capable of implementing Python One Liner's.
- 
-- 📫 How to reach me 📧 _vsuryakiran827@gmail.com_.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Surya-827&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact I do competitive coding and play Online PC Games and become acquianted with ML .
+---
+[![](https://komarev.com/ghpvc/?username=Surya-827&icon=0&color=0)](https://visitcount.itsvg.in)
 
----------------------------------------------------------------------------------------------------------------------------------------------------
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/suryakiran) 
 
-![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"><img src="https://user-images.githubusercontent.com/63420304/180278460-8d2020e6-2e0d-49ab-81a9-94272e68efc4.png" alt="REST API" width="48" height="45"/></a>
-    <a href="https://jmeter.apache.org/" target="_blank"><img src="https://user-images.githubusercontent.com/63420304/180949778-a1f6d65c-592b-4d4e-93ca-00b8d47c83a1.png" alt="JMeter" width="45" height="43"/></a>
-    <a href="https://github.com/" target="_blank"><img src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" alt="Github" width="45" height="43"/></a>
-    <a href="https://gitlab.com" target="_blank"><img src="https://github.com/Surya-827/Surya-827/assets/63420304/50482878-f63b-4a7f-be1b-84abb0b1b03c" alt="Gitlab" width="45" height="43"/></a>
-    <a href="https://pyspark.com" target="_blank"><img src="https://th.bing.com/th/id/OIP.-wJlO309HXQiayJBz1UDIAHaDq?rs=1&pid=ImgDetMain" alt="PySpark" width="45" height="43"/></a>
-    <a href="https://www.microsoft.com/en-us/microsoft-fabric/getting-started" target="_blank"><img src="https://www.epcgroup.net/wp-content/uploads/2024/03/blog_MF.webp" alt="Fabric" width="45" height="43"/></a>
- 
-</p>
-
-<br/>
-<br/>
-
-
-<p align="center">
-    <a href="https://github.com/Surya-827/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Surya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-827&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<!--/br>
-<a><h2>Trophies</h2></a>
-    <a href="https://github.com/Surya-827/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Surya-827&row=4&theme=onedark&no-frame=true"/>
-    </a>    
-    </a>
-<br/-->
-
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Surya-827/github-readme-stats"><img alt="Surya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Surya-827&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Surya-827/github-readme-stats"><img alt="Surya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-827&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level .
-
-
-<br/>
-
-
-## 📈 Activity Graph 
-<p align="center">
-<a href="https://github.com/Surya-827/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-827&theme=react&area=true&hide_border=true&bg_color=0D1117#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/Surya-827/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-827&theme=react&area=true&hide_border=true&bg_color=0D1117#gh-dark-mode-only" width="100%">
-</a>
-</p>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/surya-kiran-v-8a4a831aa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Surya0827"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/surya1kiran/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.snapchat.com/add/surya0827"><img src="https://img.icons8.com/fluent/48/000000/snapchat.png"/></a>
-<a href = "https://www.hackerrank.com/Vsuryakiran"><img src="https://user-images.githubusercontent.com/63420304/180704525-90b460a6-b467-4ee4-ba18-8bcd6e4198cb.png" alt="hackerrank" width="48" height="48"/></a>
-<a href = "https://myportfolio-suryakiran.netlify.app"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/></a>
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Surya-827">
-</a>
-<!-- <img align="right" src="https://github.com/Surya-827/github-stats-transparent/blob/output/generated/overview.svg"  width="400"> -->
-<br></br>
-<br/>
-
-## 🎧 Now Playing 
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31fxa3tlwvpnd7pxkz7kty2p36mq)
-<br/>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
