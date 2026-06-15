@@ -5,7 +5,13 @@
 <h3 align="center">👨🏻‍💻 I'm a Senior Software Engineer from India .</h3>
 
 # 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Surya-827&label=Profile%20views&color=0e75b6&style=flat" alt="Surya-827" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Surya-827&label=Profile%20views&color=0e75b6&style=flat" alt="Surya-827" />
+  <a href="https://github.com/Surya-827/Test-Automation/actions/workflows/playwright.yml">
+    <img src="https://github.com/Surya-827/Test-Automation/actions/workflows/playwright.yml/badge.svg" alt="Playwright Tests" />
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kFFwbhSmw) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SuryaKiran ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surya27kiran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-kiran-8a4a831aa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19599229) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/suryakiran827) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Surya0827) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@suryakiran2079) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SuryaKiran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsuryakiran827@gmail.com) 
