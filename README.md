@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surya-827/surya-827/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surya-827/surya-827/main/light.svg">
+  <img alt="Surya Kiran" src="https://raw.githubusercontent.com/surya-827/surya-827/main/light.svg">
+</picture>
+
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
